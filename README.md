@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Ibochkarev&show_icons=true)
-[![Ibochkarev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ibochkarev)](https://github.com/anuraghazra/github-readme-stats)
+[![Ibochkarev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ibochkarev)](https://github.com/anuraghazra/github-readme-stats)
