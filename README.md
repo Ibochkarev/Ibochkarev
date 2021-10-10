@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
+[![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ibochkarev&theme=rogue)](https://github.com/Ibochkarev)
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=Ibochkarev&show_icons=true)
