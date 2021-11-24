@@ -19,10 +19,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Telegram-IBochkarev-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/ibochkarev)
 [![](https://img.shields.io/badge/Instagram-IBochkarev-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/ibochkarev/)
 
-
 <br/>
-
-[![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ibochkarev&theme=rogue)](https://github.com/Ibochkarev)
-<br>
-
 ![](https://github-readme-stats.vercel.app/api?username=Ibochkarev&show_icons=true)
