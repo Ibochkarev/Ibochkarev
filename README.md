@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibochkarev&hide=html&layout=compact)](https://github.com/Ibochkarev)
+
 [![](https://img.shields.io/badge/Repositories-IBochkarev-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Ibochkarev?tab=repositories)
 [![](https://img.shields.io/badge/Telegram-IBochkarev-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/ibochkarev)
 [![](https://img.shields.io/badge/Instagram-IBochkarev-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/ibochkarev/)
