@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## :zap: Most Used Languages:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibochkarev&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
+
+## :trophy: My Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibochkarev&hide=html&layout=compact)](https://github.com/Ibochkarev)
 
@@ -35,6 +39,7 @@ Here are some ideas to get you started:
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 </p>
 
+### Talk with me:
 
 [![](https://img.shields.io/badge/Repositories-IBochkarev-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Ibochkarev?tab=repositories)
 [![](https://img.shields.io/badge/Telegram-IBochkarev-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/ibochkarev)
