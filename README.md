@@ -1,44 +1,92 @@
-Hi 👋 My name is Ivan Bochkarev
-===============================
+<div align="center">
 
-Frontend Developer
-------------------
+# 👋 Привет, меня зовут Ivan Bochkarev
 
-* 🌍  I'm based in Russia, Omsk
-* ✉️  You can contact me at [ivanx86@gmail.com](mailto:ivanx86@gmail.com) and [Telegram - ibochkarev](https://t.me/ibochkarev)
+### Frontend Developer
 
-* 🧠  I'm learning Typescript, Vue 3, Nuxt 3
+[![GitHub Followers](https://img.shields.io/github/followers/Ibochkarev?logo=github&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/Ibochkarev)
+[![Hireable](https://img.shields.io/badge/Hireable-Open%20to%20offers-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://github.com/Ibochkarev)
 
-<a href="https://www.github.com/ibochkarev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ibochkarev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+[Email](mailto:ivanx86@gmail.com) · [Telegram](https://t.me/ibochkarev)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</div>
+
+---
+
+## Обо мне
+
+Frontend-разработчик из Омска. Создаю веб-приложения на **Vue 3** и **Nuxt 3**. Участвую в сообществе [modx-pro](https://github.com/modx-pro) — русскоязычном комьюнити вокруг [MODX Revolution](https://github.com/modxcms/revolution) ([modx.com](https://modx.com)).
+
+**[MODX Revolution](https://github.com/modxcms/revolution)** — open-source CMS (GPL-2.0), PHP 8.2+, PSR-4, headless. Участвую в экосистеме:
+- [modx-pro/Docs](https://github.com/modx-pro/Docs) — документация MODX (VitePress, TypeScript, Vue), [docs.modx.pro](https://docs.modx.pro)
+- [MiniShop3](https://github.com/modx-pro/MiniShop3) — интернет-магазин для MODX 3 (Vue 3 + PrimeVue, REST API)
+- [vueTools](https://github.com/modx-pro/vueTools) — стек Vue 3, Pinia, PrimeVue и Vite для MODX Extras
+- [localizator](https://github.com/modx-pro/localizator)
+
+Контрибьютор [документации Vue.js](https://github.com/vuejs-translations/docs-ru) и [сайта Nuxt на русском](https://github.com/translation-gang/nuxt.com) ([nuxt-ru.vercel.app](https://nuxt-ru.vercel.app)).
+
+- 🌍 **Локация:** Россия, Омск
+
+---
+
+## Технологии
+
+**Frontend & языки:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Стили:**
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Сборка и инструменты:**
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+**Базы и хостинг:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+**Дизайн:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ibochkarev&show_icons=true&theme=tokyonight&locale=ru&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ibochkarev&layout=donut&theme=tokyonight&locale=ru&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibochkarev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/ibochkarev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i.bochkarev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibochkarev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ibochkarev/Ibochkarev/output/github-snake.svg" alt="Snake" width="100%" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## Контакты
 
-<a href="http://www.github.com/ibochkarev"><img src="https://github-readme-stats.vercel.app/api?username=ibochkarev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibochkarev's GitHub stats" /></a>
-
-<a href="http://www.github.com/ibochkarev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibochkarev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/Ibochkarev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/ibochkarev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:ivanx86@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/i.bochkarev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
