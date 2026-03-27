@@ -5,7 +5,6 @@
 ### Frontend Developer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Ibochkarev?logo=github&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/Ibochkarev)
-[![Hireable](https://img.shields.io/badge/Hireable-Open%20to%20offers-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://github.com/Ibochkarev)
 
 [Email](mailto:ivanx86@gmail.com) · [Telegram](https://t.me/ibochkarev)
 
