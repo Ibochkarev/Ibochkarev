@@ -137,10 +137,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibochkarev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ibochkarev/Ibochkarev/output/github-snake.svg" alt="Snake contribution animation" width="100%" />
-</p>
-
 ---
 
 ## Контакты
