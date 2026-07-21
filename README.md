@@ -39,6 +39,7 @@
 | Проект | Вклад | Ссылки |
 | --- | --- | --- |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | **15+** merged PR (docs, API, DX) | [мои PR](https://github.com/nuxt/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [translation-gang/nuxt](https://github.com/translation-gang/nuxt) | **50+** merged PR — перевод Nuxt | [мои PR](https://github.com/translation-gang/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
 | [vuejs-translations/docs-ru](https://github.com/vuejs-translations/docs-ru) | **30+** merged PR — перевод docs Vue 3 | [мои PR](https://github.com/vuejs-translations/docs-ru/pulls?q=is%3Apr+author%3AIbochkarev) |
 | [translation-gang/nuxt.com](https://github.com/translation-gang/nuxt.com) | **60+** PR — русская версия сайта Nuxt | [сайт](https://nuxt-ru.vercel.app) · [мои PR](https://github.com/translation-gang/nuxt.com/pulls?q=is%3Apr+author%3AIbochkarev) |
 
