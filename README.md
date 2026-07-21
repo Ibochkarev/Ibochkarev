@@ -28,7 +28,9 @@
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged_PRs-780%2B-42b883?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests)
+[![Merged PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FIbochkarev%2FIbochkarev%2Fmain%2Fstats.json&query=%24.merged_prs_label&style=for-the-badge&logo=git&logoColor=white&label=Merged%20PRs&color=42b883&cacheSeconds=3600)](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests)
+
+<sub>Цифры обновляются автоматически раз в месяц (<!--stats:updated_at-->2026-07-21<!--/stats:updated_at-->) · streak ниже — в реальном времени</sub>
 
 </div>
 
@@ -38,17 +40,17 @@
 
 | Проект | Вклад | Ссылки |
 | --- | --- | --- |
-| [nuxt/nuxt](https://github.com/nuxt/nuxt) | **15+** merged PR (docs, API, DX) | [мои PR](https://github.com/nuxt/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [translation-gang/nuxt](https://github.com/translation-gang/nuxt) | **50+** merged PR — перевод Nuxt | [мои PR](https://github.com/translation-gang/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [vuejs-translations/docs-ru](https://github.com/vuejs-translations/docs-ru) | **30+** merged PR — перевод docs Vue 3 | [мои PR](https://github.com/vuejs-translations/docs-ru/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [translation-gang/nuxt.com](https://github.com/translation-gang/nuxt.com) | **60+** PR — русская версия сайта Nuxt | [сайт](https://nuxt-ru.vercel.app) · [мои PR](https://github.com/translation-gang/nuxt.com/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [nuxt/nuxt](https://github.com/nuxt/nuxt) | **<!--stats:nuxt_nuxt-->15+<!--/stats:nuxt_nuxt-->** merged PR (docs, API, DX) | [мои PR](https://github.com/nuxt/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [translation-gang/nuxt](https://github.com/translation-gang/nuxt) | **<!--stats:tg_nuxt-->51+<!--/stats:tg_nuxt-->** merged PR — перевод Nuxt | [мои PR](https://github.com/translation-gang/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [vuejs-translations/docs-ru](https://github.com/vuejs-translations/docs-ru) | **<!--stats:docs_ru-->30+<!--/stats:docs_ru-->** merged PR — перевод docs Vue 3 | [мои PR](https://github.com/vuejs-translations/docs-ru/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [translation-gang/nuxt.com](https://github.com/translation-gang/nuxt.com) | **<!--stats:tg_nuxt_com-->17+<!--/stats:tg_nuxt_com-->** PR — русская версия сайта Nuxt | [сайт](https://nuxt-ru.vercel.app) · [мои PR](https://github.com/translation-gang/nuxt.com/pulls?q=is%3Apr+author%3AIbochkarev) |
 
 ### MODX & экосистема
 
 | Организация | Merged PR |
 | --- | --- |
-| [modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests) | **190+** |
-| [modxcms](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodxcms&type=pullrequests) | **130+** |
+| [modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests) | **<!--stats:modx_pro-->192+<!--/stats:modx_pro-->** |
+| [modxcms](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodxcms&type=pullrequests) | **<!--stats:modxcms-->135+<!--/stats:modxcms-->** |
 
 Ключевые репозитории (контрибутор): [modxcms/revolution](https://github.com/modxcms/revolution) · [modx-pro/MiniShop3](https://github.com/modx-pro/MiniShop3) · [modx-pro/Docs](https://github.com/modx-pro/Docs) · [modx-pro/Tickets](https://github.com/modx-pro/Tickets) · [modx-pro/vueTools](https://github.com/modx-pro/vueTools)
 
