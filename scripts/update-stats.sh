@@ -68,9 +68,12 @@ patch_marker() {
     echo "Warning: marker stats:${key} not found in README.md" >&2
     return 0
   fi
-  # portable in-place via temp file
   perl -0pi -e "s/<!--stats:${key}-->.*?<!--\\/stats:${key}-->/<!--stats:${key}-->${value}<!--\\/stats:${key}-->/sg" "$file"
 }
+
+# Static shields badge (dynamic/json с raw.githubusercontent часто даёт RESOURCE NOT FOUND)
+MERGED_BADGE=$(python3 -c "import urllib.parse; print(urllib.parse.quote('${MERGED_L}', safe=''))")
+perl -0pi -e "s|badge/Merged_PRs-[^-]+-|badge/Merged_PRs-${MERGED_BADGE}-|g" README.md
 
 patch_marker "nuxt_nuxt" "$NUXT_NUXT_L"
 patch_marker "tg_nuxt" "$TG_NUXT_L"

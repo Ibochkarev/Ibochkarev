@@ -17,14 +17,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Require STATS_TOKEN
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Добавьте repository secret STATS_TOKEN (classic PAT с public_repo)."
+            echo "Без него GitHub Search API через GITHUB_TOKEN занижает счётчики."
+            exit 1
+          fi
+
       - name: Update stats
         env:
-          # GITHUB_TOKEN даёт неполные search total_count — лучше PAT (public_repo)
-          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
           STATS_LOGIN: Ibochkarev
         run: |
           chmod +x scripts/update-stats.sh
           ./scripts/update-stats.sh
+          MERGED=$(python3 -c 'import json; print(json.load(open("stats.json"))["merged_prs"])')
+          if [ "$MERGED" -lt 600 ]; then
+            echo "::error::merged_prs=$MERGED выглядит заниженным — проверьте STATS_TOKEN"
+            exit 1
+          fi
 
       - name: Commit if changed
         run: |
