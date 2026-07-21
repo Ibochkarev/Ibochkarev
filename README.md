@@ -30,7 +30,7 @@
 
 [![Merged PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FIbochkarev%2FIbochkarev%2Fmain%2Fstats.json&query=%24.merged_prs_label&style=for-the-badge&logo=git&logoColor=white&label=Merged%20PRs&color=42b883&cacheSeconds=3600)](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests)
 
-<sub>Цифры обновляются автоматически раз в месяц (<!--stats:updated_at-->2026-07-21<!--/stats:updated_at-->) · streak ниже — в реальном времени</sub>
+<sub>Цифры обновляются автоматически каждые 3 дня (<!--stats:updated_at-->2026-07-21<!--/stats:updated_at-->) · streak ниже — в реальном времени</sub>
 
 </div>
 

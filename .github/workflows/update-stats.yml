@@ -2,8 +2,8 @@ name: Update OSS stats
 
 on:
   schedule:
-    # 1st of each month, 06:00 UTC
-    - cron: "0 6 1 * *"
+    # Every 3 days at 06:00 UTC
+    - cron: "0 6 */3 * *"
   workflow_dispatch:
 
 permissions:
