@@ -49,7 +49,7 @@
 
 | Организация | Merged PR |
 | --- | --- |
-| [modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests) | **<!--stats:modx_pro-->192+<!--/stats:modx_pro-->** |
+| [modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests) | **<!--stats:modx_pro-->179+<!--/stats:modx_pro-->** |
 | [modxcms](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodxcms&type=pullrequests) | **<!--stats:modxcms-->135+<!--/stats:modxcms-->** |
 
 Ключевые репозитории (контрибутор): [modxcms/revolution](https://github.com/modxcms/revolution) · [modx-pro/MiniShop3](https://github.com/modx-pro/MiniShop3) · [modx-pro/Docs](https://github.com/modx-pro/Docs) · [modx-pro/Tickets](https://github.com/modx-pro/Tickets) · [modx-pro/vueTools](https://github.com/modx-pro/vueTools)
