@@ -87,10 +87,5 @@
 ## Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ibochkarev&show_icons=true&theme=vue&locale=ru&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ibochkarev&layout=donut&theme=vue&locale=ru&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
