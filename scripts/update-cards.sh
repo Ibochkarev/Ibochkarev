@@ -26,21 +26,13 @@ PY
 }
 
 USER="Ibochkarev"
-STATS_QS="username=${USER}&show_icons=true&include_all_commits=true&show=prs_merged,reviews&hide_border=true&hide_rank=true&locale=ru"
+STATS_QS="username=${USER}&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=vue-dark&hide_border=true&hide_rank=true&locale=ru"
 
-fetch "${BASE}/api?${STATS_QS}&theme=vue" "$OUT/stats.svg"
-fetch "${BASE}/api?${STATS_QS}&theme=vue-dark" "$OUT/stats-dark.svg"
-
-fetch "${BASE}/api/pin/?username=${USER}&repo=ImageOptimizer&theme=vue&hide_border=true" "$OUT/pin-imageoptimizer.svg"
+fetch "${BASE}/api?${STATS_QS}" "$OUT/stats-dark.svg"
 fetch "${BASE}/api/pin/?username=${USER}&repo=ImageOptimizer&theme=vue-dark&hide_border=true" "$OUT/pin-imageoptimizer-dark.svg"
-fetch "${BASE}/api/pin/?username=${USER}&repo=mxEditorJs&theme=vue&hide_border=true" "$OUT/pin-mxeditorjs.svg"
 fetch "${BASE}/api/pin/?username=${USER}&repo=mxEditorJs&theme=vue-dark&hide_border=true" "$OUT/pin-mxeditorjs-dark.svg"
-fetch "${BASE}/api/pin/?username=modx-pro&repo=vueTools&theme=vue&hide_border=true" "$OUT/pin-vuetools.svg"
 fetch "${BASE}/api/pin/?username=modx-pro&repo=vueTools&theme=vue-dark&hide_border=true" "$OUT/pin-vuetools-dark.svg"
-fetch "${BASE}/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue&hide_border=true" "$OUT/pin-minishop3.svg"
 fetch "${BASE}/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue-dark&hide_border=true" "$OUT/pin-minishop3-dark.svg"
-
-fetch "${STREAK_API}/?user=${USER}&theme=vue&hide_border=true" "$OUT/streak.svg"
 fetch "${STREAK_API}/?user=${USER}&theme=vue-dark&hide_border=true" "$OUT/streak-dark.svg"
 
 echo "Cards updated in assets/cards/"

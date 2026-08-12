@@ -1,5 +1,6 @@
 <!--
   Счётчики PR не хардкодить. Карточки в assets/cards/ обновляет workflow update-cards.yml.
+  Только vue-dark: пара light/dark через #gh-*-mode-only на GitHub auto-theme даёт белую карточку на тёмном профиле.
 -->
 
 <div align="center">
@@ -33,8 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests">
-    <img src="./assets/cards/stats.svg#gh-light-mode-only" alt="Статистика GitHub: коммиты, pull request и ревью" />
-    <img src="./assets/cards/stats-dark.svg#gh-dark-mode-only" alt="Статистика GitHub: коммиты, pull request и ревью" />
+    <img src="./assets/cards/stats-dark.svg" alt="Статистика GitHub: коммиты, pull request и ревью" />
   </a>
 </div>
 
@@ -69,20 +69,16 @@
 
 <div align="center">
   <a href="https://github.com/Ibochkarev/ImageOptimizer">
-    <img src="./assets/cards/pin-imageoptimizer.svg#gh-light-mode-only" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
-    <img src="./assets/cards/pin-imageoptimizer-dark.svg#gh-dark-mode-only" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
+    <img src="./assets/cards/pin-imageoptimizer-dark.svg" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
   </a>
   <a href="https://github.com/Ibochkarev/mxEditorJs">
-    <img src="./assets/cards/pin-mxeditorjs.svg#gh-light-mode-only" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
-    <img src="./assets/cards/pin-mxeditorjs-dark.svg#gh-dark-mode-only" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
+    <img src="./assets/cards/pin-mxeditorjs-dark.svg" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
   </a>
   <a href="https://github.com/modx-pro/vueTools">
-    <img src="./assets/cards/pin-vuetools.svg#gh-light-mode-only" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
-    <img src="./assets/cards/pin-vuetools-dark.svg#gh-dark-mode-only" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
+    <img src="./assets/cards/pin-vuetools-dark.svg" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
   </a>
   <a href="https://github.com/modx-pro/MiniShop3">
-    <img src="./assets/cards/pin-minishop3.svg#gh-light-mode-only" alt="MiniShop3: интернет-магазин для MODX 3" />
-    <img src="./assets/cards/pin-minishop3-dark.svg#gh-dark-mode-only" alt="MiniShop3: интернет-магазин для MODX 3" />
+    <img src="./assets/cards/pin-minishop3-dark.svg" alt="MiniShop3: интернет-магазин для MODX 3" />
   </a>
 </div>
 
@@ -99,6 +95,5 @@
 ## Активность
 
 <div align="center">
-  <img src="./assets/cards/streak.svg#gh-light-mode-only" alt="Серия коммитов GitHub" />
-  <img src="./assets/cards/streak-dark.svg#gh-dark-mode-only" alt="Серия коммитов GitHub" />
+  <img src="./assets/cards/streak-dark.svg" alt="Серия коммитов GitHub" />
 </div>
