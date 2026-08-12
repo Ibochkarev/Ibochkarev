@@ -1,6 +1,5 @@
 <!--
-  Счётчики PR не хардкодить: карточки github-readme-stats (prs_merged) и pin.
-  Публичный vercel.app часто на паузе — используем https://github-readme-stats.shion.dev
+  Счётчики PR не хардкодить. Карточки в assets/cards/ обновляет workflow update-cards.yml.
 -->
 
 <div align="center">
@@ -34,10 +33,8 @@
 
 <div align="center">
   <a href="https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Ibochkarev&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=vue-dark&hide_border=true&hide_rank=true&locale=ru" />
-      <img src="https://github-readme-stats.shion.dev/api?username=Ibochkarev&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=vue&hide_border=true&hide_rank=true&locale=ru" alt="Статистика GitHub: коммиты, pull request и ревью" />
-    </picture>
+    <img src="./assets/cards/stats.svg#gh-light-mode-only" alt="Статистика GitHub: коммиты, pull request и ревью" />
+    <img src="./assets/cards/stats-dark.svg#gh-dark-mode-only" alt="Статистика GitHub: коммиты, pull request и ревью" />
   </a>
 </div>
 
@@ -72,28 +69,20 @@
 
 <div align="center">
   <a href="https://github.com/Ibochkarev/ImageOptimizer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=ImageOptimizer&theme=vue-dark&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=ImageOptimizer&theme=vue&hide_border=true" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
-    </picture>
+    <img src="./assets/cards/pin-imageoptimizer.svg#gh-light-mode-only" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
+    <img src="./assets/cards/pin-imageoptimizer-dark.svg#gh-dark-mode-only" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
   </a>
   <a href="https://github.com/Ibochkarev/mxEditorJs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=mxEditorJs&theme=vue-dark&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=mxEditorJs&theme=vue&hide_border=true" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
-    </picture>
+    <img src="./assets/cards/pin-mxeditorjs.svg#gh-light-mode-only" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
+    <img src="./assets/cards/pin-mxeditorjs-dark.svg#gh-dark-mode-only" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
   </a>
   <a href="https://github.com/modx-pro/vueTools">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=vueTools&theme=vue-dark&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=vueTools&theme=vue&hide_border=true" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
-    </picture>
+    <img src="./assets/cards/pin-vuetools.svg#gh-light-mode-only" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
+    <img src="./assets/cards/pin-vuetools-dark.svg#gh-dark-mode-only" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
   </a>
   <a href="https://github.com/modx-pro/MiniShop3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue-dark&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue&hide_border=true" alt="MiniShop3: интернет-магазин для MODX 3" />
-    </picture>
+    <img src="./assets/cards/pin-minishop3.svg#gh-light-mode-only" alt="MiniShop3: интернет-магазин для MODX 3" />
+    <img src="./assets/cards/pin-minishop3-dark.svg#gh-dark-mode-only" alt="MiniShop3: интернет-магазин для MODX 3" />
   </a>
 </div>
 
@@ -110,8 +99,6 @@
 ## Активность
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue-dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue&hide_border=true" alt="Серия коммитов GitHub" />
-  </picture>
+  <img src="./assets/cards/streak.svg#gh-light-mode-only" alt="Серия коммитов GitHub" />
+  <img src="./assets/cards/streak-dark.svg#gh-dark-mode-only" alt="Серия коммитов GitHub" />
 </div>
