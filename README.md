@@ -1,98 +1,117 @@
-<div align="center">
-
-# Привет, я Ivan Bochkarev
-
-### Frontend Developer · Vue / Nuxt · MODX
-
-Делаю веб-приложения на Vue 3 и Nuxt, развиваю экосистему MODX и контрибьючу в open source.
-
-[![GitHub Followers](https://img.shields.io/github/followers/Ibochkarev?style=for-the-badge&logo=github&color=42b883&labelColor=0f172a)](https://github.com/Ibochkarev)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibochkarev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanx86@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bochkarev_Ivan)
-
-</div>
-
----
-
-## Обо мне
-
-- Frontend-разработчик из **Омска**
-- Участник сообщества [modx-pro](https://github.com/modx-pro): документация, MiniShop3, extras
-- Контрибьютор экосистемы Vue / Nuxt и переводов
-- Открыт к сотрудничеству и open source
-
----
-
-## Open Source
+<!--
+  Счётчики PR не хардкодить: карточки github-readme-stats (prs_merged) и pin.
+  Публичный vercel.app часто на паузе — используем https://github-readme-stats.shion.dev
+-->
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged_PRs-782%2B-42b883?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests)
+# Ivan Bochkarev
 
-<sub>Цифры обновляются автоматически каждые 3 дня (<!--stats:updated_at-->2026-07-21<!--/stats:updated_at-->) · streak ниже — в реальном времени</sub>
+**Frontend · Vue 3 / Nuxt · MODX**
+
+Веб-приложения, extras и документация.
+Контрибьютор Vue, Nuxt и экосистемы MODX.
+
+[ibochkarev.ru](https://ibochkarev.ru)
+·
+[Telegram](https://t.me/ibochkarev)
+·
+[Email](mailto:ivanx86@gmail.com)
+·
+[X](https://x.com/Bochkarev_Ivan)
 
 </div>
 
-### Nuxt & Vue
+## Чем занимаюсь
 
-Вклады в экосистему Vue/Nuxt — документация, API и переводы.
+- Интерфейсы на **Vue 3** и **Nuxt**: Pinia, PrimeVue, Vite, TypeScript.
+- Extras и документация для **MODX 3**: магазин, редакторы, картинки, антиспам.
+- Русские переводы документации **Vue** и **Nuxt**.
 
-| Проект | Вклад | Ссылки |
-| --- | --- | --- |
-| [nuxt/nuxt](https://github.com/nuxt/nuxt) | **<!--stats:nuxt_nuxt-->15+<!--/stats:nuxt_nuxt-->** merged PR (docs, API, DX) | [мои PR](https://github.com/nuxt/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [translation-gang/nuxt](https://github.com/translation-gang/nuxt) | **<!--stats:tg_nuxt-->51+<!--/stats:tg_nuxt-->** merged PR — перевод Nuxt | [мои PR](https://github.com/translation-gang/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [vuejs-translations/docs-ru](https://github.com/vuejs-translations/docs-ru) | **<!--stats:docs_ru-->30+<!--/stats:docs_ru-->** merged PR — перевод docs Vue 3 | [мои PR](https://github.com/vuejs-translations/docs-ru/pulls?q=is%3Apr+author%3AIbochkarev) |
-| [translation-gang/nuxt.com](https://github.com/translation-gang/nuxt.com) | **<!--stats:tg_nuxt_com-->17+<!--/stats:tg_nuxt_com-->** PR — русская версия сайта Nuxt | [сайт](https://nuxt-ru.vercel.app) · [мои PR](https://github.com/translation-gang/nuxt.com/pulls?q=is%3Apr+author%3AIbochkarev) |
+Живу в Омске. По проектам можно писать в Telegram или на почту.
 
-### MODX & экосистема
+## Open source
 
-| Организация | Merged PR |
+<div align="center">
+  <a href="https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged&type=pullrequests">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Ibochkarev&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=vue-dark&hide_border=true&hide_rank=true&locale=ru" />
+      <img src="https://github-readme-stats.shion.dev/api?username=Ibochkarev&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=vue&hide_border=true&hide_rank=true&locale=ru" alt="Статистика GitHub: коммиты, pull request и ревью" />
+    </picture>
+  </a>
+</div>
+
+### Vue и Nuxt
+
+| Репозиторий | Вклад |
 | --- | --- |
-| [modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests) | **<!--stats:modx_pro-->192+<!--/stats:modx_pro-->** |
-| [modxcms](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodxcms&type=pullrequests) | **<!--stats:modxcms-->135+<!--/stats:modxcms-->** |
+| [nuxt/nuxt](https://github.com/nuxt/nuxt) | Документация, API, DX · [мои PR](https://github.com/nuxt/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [translation-gang/nuxt](https://github.com/translation-gang/nuxt) | Русский перевод документации Nuxt · [мои PR](https://github.com/translation-gang/nuxt/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [vuejs-translations/docs-ru](https://github.com/vuejs-translations/docs-ru) | Перевод документации Vue 3 · [мои PR](https://github.com/vuejs-translations/docs-ru/pulls?q=is%3Apr+author%3AIbochkarev) |
+| [translation-gang/nuxt.com](https://github.com/translation-gang/nuxt.com) | Русская версия сайта Nuxt · [сайт](https://nuxt-ru.vercel.app) · [мои PR](https://github.com/translation-gang/nuxt.com/pulls?q=is%3Apr+author%3AIbochkarev) |
 
-Ключевые репозитории (контрибутор): [modxcms/revolution](https://github.com/modxcms/revolution) · [modx-pro/MiniShop3](https://github.com/modx-pro/MiniShop3) · [modx-pro/Docs](https://github.com/modx-pro/Docs) · [modx-pro/Tickets](https://github.com/modx-pro/Tickets) · [modx-pro/vueTools](https://github.com/modx-pro/vueTools)
+### MODX
 
----
+Участник [modx-pro](https://github.com/modx-pro). Пишу extras, правки ядра и документацию.
 
-## Избранные проекты
+[modxcms/revolution](https://github.com/modxcms/revolution)
+·
+[MiniShop3](https://github.com/modx-pro/MiniShop3)
+·
+[Docs](https://github.com/modx-pro/Docs)
+·
+[Tickets](https://github.com/modx-pro/Tickets)
+·
+[vueTools](https://github.com/modx-pro/vueTools)
 
-| Репозиторий | Роль | Описание |
-| --- | --- | --- |
-| [modx-pro/vueTools](https://github.com/modx-pro/vueTools) | контрибутор | Vue 3 + Pinia + PrimeVue + Vite для MODX Extras |
-| [modx-pro/MiniShop3](https://github.com/modx-pro/MiniShop3) | контрибутор | Интернет-магазин для MODX 3 |
-| [modx-pro/Docs](https://github.com/modx-pro/Docs) | контрибутор | Документация MODX (VitePress) |
-| [Ibochkarev/ImageOptimizer](https://github.com/Ibochkarev/ImageOptimizer) | автор | WebP/AVIF, responsive srcset, очередь и picture-элемент для MODX |
-| [Ibochkarev/mxEditorJs](https://github.com/Ibochkarev/mxEditorJs) | автор | Блочный редактор Editor.js для MODX 3 |
-| [Ibochkarev/CrawlerDetect](https://github.com/Ibochkarev/CrawlerDetect) | автор | Определение ботов и защита форм без CAPTCHA |
+[PR в modx-pro](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodx-pro&type=pullrequests)
+·
+[PR в modxcms](https://github.com/search?q=author%3AIbochkarev+type%3Apr+is%3Amerged+org%3Amodxcms&type=pullrequests)
 
----
+## Проекты
 
-## Технологии
+<div align="center">
+  <a href="https://github.com/Ibochkarev/ImageOptimizer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=ImageOptimizer&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=ImageOptimizer&theme=vue&hide_border=true" alt="ImageOptimizer: WebP, AVIF и picture для MODX" />
+    </picture>
+  </a>
+  <a href="https://github.com/Ibochkarev/mxEditorJs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=mxEditorJs&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ibochkarev&repo=mxEditorJs&theme=vue&hide_border=true" alt="mxEditorJs: блочный редактор Editor.js для MODX 3" />
+    </picture>
+  </a>
+  <a href="https://github.com/modx-pro/vueTools">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=vueTools&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=vueTools&theme=vue&hide_border=true" alt="vueTools: Vue 3, Pinia и PrimeVue для MODX extras" />
+    </picture>
+  </a>
+  <a href="https://github.com/modx-pro/MiniShop3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=modx-pro&repo=MiniShop3&theme=vue&hide_border=true" alt="MiniShop3: интернет-магазин для MODX 3" />
+    </picture>
+  </a>
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=flat-square&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vitepress&logoColor=white)
+Ещё extras: [CrawlerDetect](https://github.com/Ibochkarev/CrawlerDetect) (боты и формы без CAPTCHA), [Reactions](https://github.com/Ibochkarev/Reactions) (реакции для MODX 3).
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MODX](https://img.shields.io/badge/MODX-00A0E0?style=flat-square&logo=modx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Стек
 
----
+| Слой | Инструменты |
+| --- | --- |
+| Frontend | Vue 3, Nuxt, TypeScript, Pinia, PrimeVue, Vite, VitePress |
+| Backend | PHP, MODX, MySQL, Composer |
+| UI | Tailwind, Sass, Figma |
 
-## Статистика GitHub
+## Активность
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue-dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Ibochkarev&theme=vue&hide_border=true" alt="Серия коммитов GitHub" />
+  </picture>
+</div>
